@@ -4,10 +4,9 @@
 
 This project contains the lab framework for the JUnit Testing Framework class.
 You may clone the framework or download a zip of the framework on this page.
-There are working solutions for all of the labs, and example projects, that may be a good reference for building React programs
-with TypeScript even if you are not interested in the course.
+There are working solutions for all of the labs that may be a good reference for building JUnit test fixtures even if you are not interested in the course.
 
-Do the rapidly changing landscape of [insert technologies: React, TypeScript, and web application programming in general], this material is updated frequently.
+Do the rapidly changing landscape of [insert technologies: Java, JUnit, and Cucumber, this material is updated frequently.
 Feel free to come back and download new versions whenever you want to.
 
 ## License
