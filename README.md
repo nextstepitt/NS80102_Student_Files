@@ -21,7 +21,8 @@ monitors or working in an environment with a projection screen to follow what th
 
 ### Required Software Configuration
 
-* Provide instructions on the tools and software that must be installed for the course labs to work. 
+* Java 12 JDK
+* Eclipse or IntelliJ IDEA with Maven 
 
 ## Student Files Folder Layout
 
