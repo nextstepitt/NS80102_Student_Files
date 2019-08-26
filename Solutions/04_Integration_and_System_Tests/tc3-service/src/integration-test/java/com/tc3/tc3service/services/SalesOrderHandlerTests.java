@@ -32,7 +32,7 @@ public class SalesOrderHandlerTests {
         // The shared cardInfo is initialzed to valid data. The test methods will replace one value at a time
         // with invalid data to test it.
 
-        cardInfo = new CardInfo() {{ setName("John Q Public"); setCardNumber("378282246310005"); setCcv(168); setExpires(new java.sql.Date(System.currentTimeMillis())); }};
+        cardInfo = new CardInfo("John Q Public", "378282246310005", new java.sql.Date(System.currentTimeMillis()), 168);
 
         // The shared salesOrder is initialized with valid data (0 < total <= 250).
 

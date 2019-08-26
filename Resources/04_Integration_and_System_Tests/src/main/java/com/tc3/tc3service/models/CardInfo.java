@@ -13,6 +13,17 @@ public class CardInfo {
     private Date expires;
     private int ccv;
 
+    public CardInfo() {
+    }
+
+    public CardInfo(String name, String cardNumber, Date expires, int ccv) {
+
+        this.name = name;
+        this.cardNumber = cardNumber;
+        this.expires = expires;
+        this.ccv = ccv;
+    }
+
     public String getName() {
 
         return name;
