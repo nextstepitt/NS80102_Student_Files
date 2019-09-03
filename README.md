@@ -29,15 +29,11 @@ monitors or working in an environment with a projection screen to follow what th
 Student_Files
 │
 └── NS80102_Student_Files
-    └── Examples
-    │    └── 02_JUnit
-    │    └── ...
-    │ 
     └── Labs
     │       .gitignore
     │ 
     └── Resources
-    │    └── 02_JUnit
+    │    └── 03_Integraion_and_System_Tests
     │    └── ...
     │ 
     └── Solutions
