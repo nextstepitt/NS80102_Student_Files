@@ -2,7 +2,7 @@
 
 # NS80102 JUnit Testing Framework - Student Files
 
-This project contains the lab framework for the JUnit Testing Framework class.
+This project contains the lab framework for the JUnit Testing Framework presentation.
 You may clone the framework or download a zip of the framework on this page.
 There are working solutions for all of the labs that may be a good reference for building JUnit test fixtures even if you are not interested in the course.
 
